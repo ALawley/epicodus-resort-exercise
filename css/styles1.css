@@ -27,3 +27,27 @@ p {
 p a {
   background-color: #D9EAD9;
 }
+
+img {
+  height: 200px;
+  width: auto;
+}
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    background-color: white;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
