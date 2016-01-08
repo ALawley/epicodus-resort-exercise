@@ -1,4 +1,4 @@
-# Travel Page
+# Island Resort Page
 **Bootstrap exercise for Epicodus, 01.05.2016**
 ### By Anna Lawley and Joe Karasek
 
